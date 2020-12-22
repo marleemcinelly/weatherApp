@@ -1,0 +1,26 @@
+.navbar {
+    background-color: brown;
+}
+
+#sidebar {
+    background-color: bisque;
+}
+
+#today {
+    background-color: lightseagreen;
+    height: 500px;
+}
+
+.nextWeek {
+    background-color: lightsalmon;
+    height: 300px;
+    margin: 5px;
+}
+
+.nextWeekRow {
+    margin: 5px;
+}
+
+.mainBody {
+    height: 800px;
+}
